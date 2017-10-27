@@ -1,0 +1,46 @@
+.top-bar {
+  height: 100px;
+  background: red;
+}
+
+.top-bar ul {
+  height: 100%;
+}
+
+.top-bar li {
+  height: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.youtube-logo {
+  width: 143px;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.search-icon {
+  color: white;
+  cursor: pointer;
+}
+
+.search-area {
+  margin-top: 42px;
+  margin-left: 20px;
+}
+
+.search-area input {
+  margin: 0 15px;
+}
+
+.hamburger-icon{
+  padding-top: 28px;
+  display:inline-block;
+  font-size: 40px;
+  line-height: 50px;
+  color:white;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  vertical-align: middle;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "youtube-jquery-project",
+  "version": "1.0.0",
+  "description": "In this project you will be using the youtube data api. We will be using http requests to get data from youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDom1/youtubejQuery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDom1/youtubejQuery/issues"
+  },
+  "homepage": "https://github.com/TheDom1/youtubejQuery#readme",
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.0.1"
+  }
+}
